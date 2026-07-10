@@ -17,7 +17,6 @@ The project covers **Time Series Analysis, Machine Learning, Forecasting, Anomal
 ## 📦 Dataset
 
 - **Primary:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) (`train.csv`) — 4 years of daily sales data across multiple product categories and regions
-- **Supplementary:** [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) — used for multi-source/merging practice
 
 ---
 
