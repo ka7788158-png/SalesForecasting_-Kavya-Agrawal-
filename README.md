@@ -85,6 +85,7 @@ Python 3.x · Pandas & NumPy · Statsmodels · Prophet · XGBoost · Scikit-lear
 
 ---
 
+
 ## 🚀 Running the Project
 
 **1. Clone the repo & install dependencies**
@@ -105,6 +106,14 @@ streamlit run app.py
 ```
 
 ---
+
+## 🌐 Live Links
+
+- **Streamlit App:** -> https://salesforecasting-kavya-agrawal.streamlit.app/
+- **GitHub Repo:** -> https://github.com/ka7788158-png/SalesForecasting_-Kavya-Agrawal-
+
+---
+
 
 ## ⚠️ Known Limitation
 
