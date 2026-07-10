@@ -90,7 +90,7 @@ Python 3.x · Pandas & NumPy · Statsmodels · Prophet · XGBoost · Scikit-lear
 
 **1. Clone the repo & install dependencies**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ka7788158-png/SalesForecasting_-Kavya-Agrawal-.git>
 cd SalesForecasting_[Kavya Agrawal]
 pip install -r requirements.txt
 ```
@@ -115,5 +115,5 @@ Forecasts are trained on 4 years of historical data and don't yet account for ex
 
 ## 👤 Author
 
-**[Your Name]**
+**[Kavya Agrawal]**
 [GitHub](https://github.com/ka7788158-png) · [LinkedIn](https://linkedin.com/in/kavya-agrawal-12b289326)
