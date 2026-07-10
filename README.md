@@ -89,8 +89,8 @@ Python 3.x · Pandas & NumPy · Statsmodels · Prophet · XGBoost · Scikit-lear
 
 **1. Clone the repo & install dependencies**
 ```bash
-git clone <https://github.com/ka7788158-png/SalesForecasting_-Kavya-Agrawal-.git>
-cd SalesForecasting_[Kavya Agrawal]
+git clone https://github.com/ka7788158-png/SalesForecasting_-Kavya-Agrawal-.git
+cd SalesForecasting_-Kavya Agrawal-
 pip install -r requirements.txt
 ```
 
