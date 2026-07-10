@@ -2,7 +2,7 @@
 
 **Internship Project — Week 3 & Week 4**
 **Project Title:** End-to-End Sales Forecasting & Demand Intelligence System
-**Assigned:** 03/07/2026 | **Submitted:** 13/07/2026
+**Assigned:** 03/07/2026 
 
 ---
 
