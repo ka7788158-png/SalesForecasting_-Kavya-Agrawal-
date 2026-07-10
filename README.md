@@ -1,7 +1,7 @@
 # 📊 SalesForecasting_[Kavya Agrawal]
 
 **Internship Project — Week 3 & Week 4**
-**Project Title:** End-to-End Sales Forecasting & Demand Intelligence System
+**Project Title:** End-to-End Sales Forecasting & Demand Intelligence System |
 **Assigned:** 03/07/2026 
 
 ---
