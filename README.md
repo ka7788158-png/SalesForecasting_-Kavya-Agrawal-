@@ -1,4 +1,4 @@
-# 📊 SalesForecasting_[YourName]
+# 📊 SalesForecasting_[Kavya Agrawal]
 
 **Internship Project — Week 3 & Week 4**
 **Project Title:** End-to-End Sales Forecasting & Demand Intelligence System
@@ -22,13 +22,13 @@ The project covers **Time Series Analysis, Machine Learning, Forecasting, Anomal
 ---
 
 ## 🗂️ Project Structure
-SalesForecasting_[YourName]/
-├── analysis.ipynb          # Full analysis notebook (Tasks 1–6)
-├── train.csv                # Superstore sales dataset
-├── app.py                   # Streamlit dashboard (Task 7)
-├── requirements.txt         # Python dependencies
-├── summary.pdf               # 2-page executive business report (Task 8)
-└── charts/                  # All exported chart images (.png)
+SalesForecasting_[Kavya Agrawal]/
+- **analysis.ipynb**          # Full analysis notebook (Tasks 1–6)
+- **train.csv**                # Superstore sales dataset
+- **app.py**                   # Streamlit dashboard (Task 7)
+- **requirements.txt**         # Python dependencies
+- **summary.pdf**               # 2-page executive business report (Task 8)
+- **charts/**                  # All exported chart images (.png)
 
 ---
 
@@ -91,7 +91,7 @@ Python 3.x · Pandas & NumPy · Statsmodels · Prophet · XGBoost · Scikit-lear
 **1. Clone the repo & install dependencies**
 ```bash
 git clone <your-repo-url>
-cd SalesForecasting_[YourName]
+cd SalesForecasting_[Kavya Agrawal]
 pip install -r requirements.txt
 ```
 
@@ -104,14 +104,6 @@ jupyter notebook analysis.ipynb
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 🌐 Live Links
-
-- **Google Colab:** [link here]
-- **Streamlit App:** [link here]
-- **GitHub Repo:** [link here]
 
 ---
 
